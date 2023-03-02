@@ -6,8 +6,7 @@ export const CardStyle = styled.div`
         height: 150px;
         background-size: cover;
         background-position: top center;
-        border-radius: 50%;
-
+        background-color: black;
         display: block;
         margin: auto;
         

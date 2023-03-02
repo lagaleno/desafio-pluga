@@ -1,3 +1,4 @@
+import { Box, Grid } from '@mui/material';
 import React from 'react'
 
 // Component import
@@ -11,12 +12,16 @@ interface IProps {
 }
 
 const List = ({ tools }: IProps): JSX.Element => {
-  console.log(tools);
     return (
-      <>
-        <h2> Listagem OI </h2>
-        <ToolsCard icon={tools[0].icon} name={tools[0].name} />
-      </>
+      <Box sx={{ m: 6 }}>
+        <Grid container rowSpacing={6} columnSpacing={{ xs: 1, sm: 2, md: 6 }}>
+          {tools.map((tool) => (
+            <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
+              <ToolsCard icon={tool.icon} name={tool.name} /> 
+            </Grid>
+          ))}
+        </Grid>
+      </Box>
     )
 }
 

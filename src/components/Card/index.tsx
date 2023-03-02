@@ -16,7 +16,7 @@ interface IProps {
 const ToolsCard = ({ icon, name }: IProps): JSX.Element => {
   return (
     <CardStyle>
-      <Card sx={{ maxWidth: "20%" }}>
+      <Card sx={{ maxWidth: "100%", height: "280px", overflow: "auto" }}>
         <CardActionArea>
           <CardMedia
             component="img"
