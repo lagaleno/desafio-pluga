@@ -1,4 +1,3 @@
-import { Box, Grid } from '@mui/material';
 import React, { useState } from 'react'
 import useInfiniteScroll from 'react-infinite-scroll-hook';
 
@@ -6,8 +5,16 @@ import useInfiniteScroll from 'react-infinite-scroll-hook';
 // Component import
 import ToolsCard from "../../../components/Card"
 
+// TODO: padronizar import do MUI nos arquivos
+// Material UI Components import
+import { Box, Grid, CircularProgress } from '@mui/material';
+
+// Styles import
+import { LoadingStyle } from '@/styles/LoadingStyles';
+
 // Interfaces import
 import { ITool } from "../../../interfaces/ITool";
+
 
 interface IProps {
   tools: ITool[];
@@ -87,9 +94,9 @@ const List = ({ tools }: IProps): JSX.Element => {
           </Grid>
         ))}
         {(loading || hasNextPage) && (
-          <div ref={sentryRef}>
-            Loading
-          </div>
+          <LoadingStyle ref={sentryRef}>
+            <CircularProgress />
+          </LoadingStyle>
       )}
       </Grid>
     </Box>

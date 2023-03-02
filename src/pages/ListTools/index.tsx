@@ -6,7 +6,11 @@ import { ITool } from "../../interfaces/ITool";
 // Components import
 import List from "./List";
 
+// Material UI Components import
+import CircularProgress from '@mui/material/CircularProgress';
+
 // Styles import
+import { LoadingStyle } from '@/styles/LoadingStyles';
 
 interface IProp {
   tools: ITool[]
@@ -20,7 +24,9 @@ export default function ListTools({ tools }: IProp) {
       { tools ?
         <><List tools={tools} /></> 
       :
-      <h1> Loading </h1>
+        <LoadingStyle>
+          <CircularProgress />
+        </LoadingStyle>
       }
     </>
   )
