@@ -1,18 +1,22 @@
 import styled from "styled-components";
 
 export const CardStyle = styled.div`
+
+    .MuiCardContent-root {
+        text-align: center;
+    }
+`;
+
+export const CardImageStyle = styled.div`
+    background-color: ${props => props.color};
+
     .MuiCardMedia-img {
         width: 150px;
         height: 150px;
         background-size: cover;
         background-position: top center;
-        background-color: black;
         display: block;
         margin: auto;
         
-    }
-
-    .MuiCardContent-root {
-        text-align: center;
     }
 `;
