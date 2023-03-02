@@ -1,10 +1,17 @@
 import React, { useEffect, useState } from 'react'
 
-// Material UI Imports
+// Interface import
+import { ITool } from "../../interfaces/ITool";
+
+// Components import
+import List from "./List";
 
 // Styles import
-import { Title } from "./styles.ts";
+import { Title } from "./styles";
 
+interface IProp {
+  tools: ITool[]
+}
 
 const SearchBar = (): JSX.Element => {
   return (
@@ -14,36 +21,16 @@ const SearchBar = (): JSX.Element => {
   )
 }
 
-const List = (): JSX.Element => {
-  return (
-    <>
-      <h2> Listagem </h2>
-    </>
-  )
-}
 
-export default function ListTools() {
-  const [toolsList, setToolsList] = useState([])
-  useEffect(() => {
-    const url = "https://pluga.co/ferramentas_search.json"
-
-    const getData = async () => {
-      try {
-        const res = await fetch(url);
-        const data = await res.json()
-        console.log(data)
-        setToolsList(data);
-      } catch (error) {
-        console.log(error);
-      } 
-    };
-    getData()
-  }, []);
+export default function ListTools({ tools }: IProp) {
 
   return (
     <>
-      <SearchBar />
-      <List />
+      { tools ?
+        <><SearchBar /><List tools={tools} /></> 
+      :
+      <h1> Loading </h1>
+      }
     </>
   )
 }
