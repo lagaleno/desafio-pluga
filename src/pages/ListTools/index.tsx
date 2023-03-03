@@ -12,6 +12,7 @@ import CircularProgress from '@mui/material/CircularProgress';
 
 // Styles import
 import { LoadingStyle } from '@/styles/LoadingStyles';
+import { Box, Grid } from '@mui/material';
 
 interface IProp {
   tools: ITool[]
@@ -34,7 +35,13 @@ const ListTools = ({ tools }: IProp) => {
     <>
       { tools ?
         <> 
-          <SearchBar searchQuery={searchQuery} setSearchQuery={setSearchQuery} /><div style={{ padding: 3 }} />
+          <Box sx={{ m: 2 }}>
+            <Grid container>
+              <Grid item xs={12}>
+                <SearchBar searchQuery={searchQuery} setSearchQuery={setSearchQuery} /><div style={{ padding: 3 }} />
+              </Grid>
+            </Grid>
+          </Box>
           <List tools={dataFiltered} searching={searching }/>
         </> 
       :

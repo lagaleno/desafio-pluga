@@ -4,23 +4,24 @@ import React from 'react'
 import { IconButton } from "@mui/material";
 import SearchIcon from '@mui/icons-material/Search';
 import TextField from "@mui/material/TextField";
+import { SearchBarStyles } from './styles';
 
 const SearchBar = ({ setSearchQuery }: any): JSX.Element => (
     <form>
-      <TextField
-        id="search-bar"
-        className="text"
-        onInput={(e) => {
-          setSearchQuery((e.target as HTMLInputElement).value);
-        }}
-        label="Enter a city name"
-        variant="outlined"
-        placeholder="Search..."
-        size="small"
-      />
-      <IconButton type="submit" aria-label="search">
-        <SearchIcon style={{ fill: "blue" }} />
-      </IconButton>
+      <SearchBarStyles>
+        <IconButton type="submit" aria-label="search">
+          <SearchIcon />
+        </IconButton>
+        <TextField
+          id="search-bar"
+          fullWidth
+          onInput={(e) => {
+            setSearchQuery((e.target as HTMLInputElement).value);
+          }}
+          label="Entre com o nome da Ferramenta"
+          placeholder="Buscar Ferramenta"
+        />
+      </SearchBarStyles>
     </form>
   );
 
