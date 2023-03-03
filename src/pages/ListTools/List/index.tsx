@@ -79,11 +79,17 @@ export const useLoadTools = (tools: ITool[]) => {
 const renderSearchList = (tools: ITool[]): JSX.Element => {
   return (
     <>
-      {tools.map((tool) => (
-        <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
-          <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
-        </Grid>
-      ))}
+      {tools ? 
+          tools.map((tool) => (
+            <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
+              <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
+            </Grid>
+          ))
+        :
+        <LoadingStyle>
+          <CircularProgress />
+        </LoadingStyle>
+      }
     </>
   )
 }
