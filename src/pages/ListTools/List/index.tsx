@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import useInfiniteScroll from 'react-infinite-scroll-hook';
+import useInfiniteScroll, { UseInfiniteScrollHookResult } from 'react-infinite-scroll-hook';
 
 
 // Component import
@@ -18,6 +18,7 @@ import { ITool } from "../../../interfaces/ITool";
 
 interface IProps {
   tools: ITool[];
+  searching: boolean;
 }
 
 interface Response {
@@ -55,13 +56,14 @@ export function useLoadTools(tools: ITool[]) {
   const [currentTools, setCurrentTools] = useState<ITool[]>([]);
   const [hasNextPage, setHasNextPage] = useState<boolean>(true);
   const [error, setError] = useState<any>();
-
+  
   async function loadMore() {
     setLoading(true);
     try {
       const { data, hasNextPage: newHasNextPage } = await loadTools(
         currentTools.length, tools, tools.length
       );
+      
       setCurrentTools((current) => [...current, ...data]);
       setHasNextPage(newHasNextPage);
     } catch (err) {
@@ -74,21 +76,27 @@ export function useLoadTools(tools: ITool[]) {
   return { loading, currentTools, hasNextPage, error, loadMore };
 }
 
-const List = ({ tools }: IProps): JSX.Element => {
-  const { loading, currentTools, hasNextPage, error, loadMore } = useLoadTools(tools);
-
-  const [sentryRef] = useInfiniteScroll({
-    loading,
-    hasNextPage,
-    onLoadMore: loadMore,
-    disabled: !!error,
-    rootMargin: '0px 0px 400px 0px',
-  });
-
+const renderSearchList = (tools: ITool[]): JSX.Element => {
   return (
-    <Box sx={{ m: 6 }}>
-      <Grid container rowSpacing={6} columnSpacing={{ xs: 1, sm: 2, md: 6 }}>
-        {currentTools.map((tool) => (
+    <>
+      {tools.map((tool) => (
+        <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
+          <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
+        </Grid>
+      ))}
+    </>
+  )
+}
+
+const renderPaginatedList = (
+    tools: ITool[], 
+    loading: boolean, 
+    hasNextPage: boolean, 
+    sentryRef: ((instance: HTMLDivElement | null) => void) | React.RefObject<HTMLDivElement> | null | undefined
+  ): JSX.Element => {
+  return (
+    <>
+      {tools.map((tool) => (
           <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
             <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
           </Grid>
@@ -98,6 +106,29 @@ const List = ({ tools }: IProps): JSX.Element => {
             <CircularProgress />
           </LoadingStyle>
       )}
+    </>
+  )
+}
+
+const List = ({ tools, searching }: IProps): JSX.Element => {
+  
+  let { loading, currentTools, hasNextPage, error, loadMore } = useLoadTools(tools);
+
+  const [sentryRef] = useInfiniteScroll({
+    loading,
+    hasNextPage,
+    onLoadMore: loadMore,
+    disabled: !!error,
+    rootMargin: '0px 0px 400px 0px',
+  });
+  
+  return (
+    <Box sx={{ m: 6 }}>
+      <Grid container rowSpacing={6} columnSpacing={{ xs: 1, sm: 2, md: 6 }}>
+        { searching ? 
+            renderSearchList(tools) : 
+            renderPaginatedList(currentTools, loading, hasNextPage, sentryRef)
+        }
       </Grid>
     </Box>
   )
