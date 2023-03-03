@@ -25,7 +25,7 @@ const filterData = (query: string, data: ITool[]) => {
   }
 };
 
-export default function ListTools({ tools }: IProp) {
+const ListTools = ({ tools }: IProp) => {
   const [searchQuery, setSearchQuery] = useState("");
   const dataFiltered = filterData(searchQuery, tools);
   let searching = false;
@@ -45,3 +45,5 @@ export default function ListTools({ tools }: IProp) {
     </>
   )
 }
+
+export default ListTools;

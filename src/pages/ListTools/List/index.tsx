@@ -30,7 +30,7 @@ interface Response {
 const RESPONSE_TIME_IN_MS = 1000; // delay time to render next page
 const PAGE_MAX_SIZE = 12;
 
-function loadTools(startCursor = 0, items: ITool[], total: number): Promise<Response> {
+const loadTools = (startCursor = 0, items: ITool[], total: number): Promise<Response> => {
   return new Promise((resolve) => {
     let newArray: ITool[] = [];
     let hasNextPage = false;
@@ -51,13 +51,13 @@ function loadTools(startCursor = 0, items: ITool[], total: number): Promise<Resp
   });
 }
 
-export function useLoadTools(tools: ITool[]) {
+export const useLoadTools = (tools: ITool[]) => {
   const [loading, setLoading] = useState(false);
   const [currentTools, setCurrentTools] = useState<ITool[]>([]);
   const [hasNextPage, setHasNextPage] = useState<boolean>(true);
   const [error, setError] = useState<any>();
   
-  async function loadMore() {
+  const loadMore = async () => {
     setLoading(true);
     try {
       const { data, hasNextPage: newHasNextPage } = await loadTools(
