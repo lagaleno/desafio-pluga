@@ -82,7 +82,7 @@ const renderSearchList = (tools: ITool[]): JSX.Element => {
       {tools ? 
           tools.map((tool) => (
             <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
-              <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
+              <ToolsCard tool={tool} /> 
             </Grid>
           ))
         :
@@ -104,7 +104,7 @@ const renderPaginatedList = (
     <>
       {tools.map((tool) => (
           <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
-            <ToolsCard icon={tool.icon} name={tool.name}  color={tool.color} /> 
+            <ToolsCard tool={tool} /> 
           </Grid>
         ))}
         {(loading || hasNextPage) && (
