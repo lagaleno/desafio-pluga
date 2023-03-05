@@ -9,7 +9,6 @@ import { CardActionArea } from '@mui/material';
 import { ITool } from '@/interfaces/ITool';
 
 // Components Import
-import ToolModal from '../Modal';
 import ToolDialog from '../ToolDialog';
 
 // Context import

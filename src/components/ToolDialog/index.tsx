@@ -21,22 +21,14 @@ interface IProp {
     tool: ITool;
     recentlyViewedTools: ITool[];
 }
-const style = {
-    position: 'absolute' as 'absolute',
-    top: '50%',
-    left: '50%',
-    transform: 'translate(-50%, -50%)',
-    width: "50%",
-    // overflow:'scroll',
-    bgcolor: 'background.paper',
-    p: 4,
-  };
+
 
 const mountRecentViewedTools = (list: ITool[]) => {
     if (list.length >= 1) {
         return (
             list.map((tool) => (
                 <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
+                    {/* Se cliclou chama handleCloseModal*/}
                     <ToolsCard tool={tool} />
                 </Grid>
             ))
@@ -57,6 +49,8 @@ const ToolDialog = ({ open, handleCloseModal, tool, recentlyViewedTools }: IProp
     return (
         <Dialog
         fullScreen={fullScreen}
+        maxWidth={"md"}
+        fullWidth={true}
         open={open}
         onClose={handleCloseModal}
         aria-labelledby="responsive-dialog-title"
