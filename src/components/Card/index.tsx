@@ -10,12 +10,13 @@ import { ITool } from '@/interfaces/ITool';
 
 // Components Import
 import ToolModal from '../Modal';
+import ToolDialog from '../ToolDialog';
 
 // Context import
 import { useRecentlyViewedTools } from '@/context/RecentlyViewedToolsContext';
 
 // Utils import
-import { limitRecentlyViewedList } from '@/utils/limitRecentlyViewedList';
+import { mountRecentlyViewedList } from '@/utils/mountRecentlyViewedList';
 
 // Styles import
 import { CardStyle, CardImageStyle } from "./styles";
@@ -34,8 +35,8 @@ const ToolsCard = ({ tool }: IProps): JSX.Element => {
 
   const handleCloseModal = () => {
     setShowModal(false);
-    const limitedRecentList = limitRecentlyViewedList(recentToolsList)
-    setRecentToolsList([...limitedRecentList, tool]);
+    const recentList = mountRecentlyViewedList(recentToolsList, tool)
+    setRecentToolsList(recentList);
   }
 
   return (
@@ -59,7 +60,7 @@ const ToolsCard = ({ tool }: IProps): JSX.Element => {
           </CardActionArea>
         </Card>
       </CardStyle>
-      <ToolModal open={showModal} handleCloseModal={handleCloseModal} tool={tool} recentlyViewedTools={recentToolsList}/>
+      <ToolDialog open={showModal} handleCloseModal={handleCloseModal} tool={tool} recentlyViewedTools={recentToolsList}/>
     </>
   );
 }
