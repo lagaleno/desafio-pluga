@@ -5,4 +5,9 @@ export const ToolDetailsStyles = styled.div`
         background-color: ${props => props.color};
         border-radius: 50%;
     }
+
+`;
+
+export const RecentlyViewedToolsStyles = styled.div`
+    margin-top: 1em;
 `;
