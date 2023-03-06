@@ -1,6 +1,7 @@
 import LayoutDefault from "@/layout/Default";
 import ListTools from "./ListTools";
 import { getToolsData } from "@/utils/getToolsData";
+import { sortDataByName } from "@/utils/sortDataByName";
 import { ITool } from "@/interfaces/ITool"
 
 interface IProp {
@@ -8,7 +9,8 @@ interface IProp {
 }
 
 export async function getStaticProps() {
-  const tools = await getToolsData();
+  const rawTools = await getToolsData();
+  const tools = sortDataByName(rawTools);
   return {
     props: {
       tools,
