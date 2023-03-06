@@ -10,6 +10,7 @@ import Loading from '@/components/Loading';
 
 // Styles import
 import { Box, Grid } from '@mui/material';
+import Footer from '@/components/Footer';
 
 interface IProp {
   tools: ITool[]
@@ -39,6 +40,7 @@ const ListTools = ({ tools }: IProp) => {
               </Grid>
             </Grid>
             <List tools={dataFiltered} searching={searching }/>
+            <Footer />
           </Box>
         </> 
       :
