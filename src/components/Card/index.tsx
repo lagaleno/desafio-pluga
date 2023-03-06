@@ -9,7 +9,7 @@ import { CardActionArea } from '@mui/material';
 import { ITool } from '@/interfaces/ITool';
 
 // Components Import
-import ToolDialog from '../ToolDialog';
+import ToolDialog from '@/components/ToolDialog';
 
 // Context import
 import { useRecentlyViewedTools } from '@/context/RecentlyViewedToolsContext';

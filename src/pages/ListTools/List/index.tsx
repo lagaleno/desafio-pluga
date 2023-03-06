@@ -1,19 +1,17 @@
 import React, { useState } from 'react'
-import useInfiniteScroll, { UseInfiniteScrollHookResult } from 'react-infinite-scroll-hook';
+import useInfiniteScroll from 'react-infinite-scroll-hook';
 
 
 // Component import
-import ToolsCard from "../../../components/Card"
+import ToolsCard from "@/components/Card"
+import Loading from '@/components/Loading';
 
 // TODO: padronizar import do MUI nos arquivos
 // Material UI Components import
-import { Box, Grid, CircularProgress } from '@mui/material';
-
-// Styles import
-import { LoadingStyle } from '@/styles/LoadingStyles';
+import { Box, Grid, Typography } from '@mui/material';
 
 // Interfaces import
-import { ITool } from "../../../interfaces/ITool";
+import { ITool } from "@/interfaces/ITool";
 
 
 interface IProps {
@@ -76,19 +74,41 @@ export const useLoadTools = (tools: ITool[]) => {
   return { loading, currentTools, hasNextPage, error, loadMore };
 }
 
-const renderSearchList = (tools: ITool[]): JSX.Element => {
+const renderUnsuccessfulSearch = (): JSX.Element => {
   return (
     <>
-      {tools ? 
+    <Box m={6} sx={{ width: "100%" }} display="flex" justifyContent="center" alignItems="center">
+      <Grid container>
+        <Grid item xs={12}>
+          <Typography variant="h4" align="center">
+              Nenhum resultado encontrado.
+          </Typography>
+        </Grid>
+        <Grid item xs={12}>
+          <Typography variant="subtitle1" display="block" align="center">
+              Tente uma nova busca ou procure a ferramenta pela listagem
+          </Typography>
+        </Grid>
+      </Grid>
+    </Box>
+    </>
+  )
+}
+
+const renderSearchList = (tools: ITool[]): JSX.Element => {
+  if (!tools) return <Loading />
+
+  return (
+    <>
+      {tools.length > 0 ? 
           tools.map((tool) => (
             <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
               <ToolsCard tool={tool} /> 
             </Grid>
           ))
         :
-        <LoadingStyle>
-          <CircularProgress />
-        </LoadingStyle>
+          renderUnsuccessfulSearch()
+
       }
     </>
   )
@@ -108,9 +128,9 @@ const renderPaginatedList = (
           </Grid>
         ))}
         {(loading || hasNextPage) && (
-          <LoadingStyle ref={sentryRef}>
-            <CircularProgress />
-          </LoadingStyle>
+          <div style={{width: "100%", display: "flex", alignItems: "center"}} ref={sentryRef}>
+            <Loading />
+          </div>
       )}
     </>
   )

@@ -1,18 +1,16 @@
 import React, { useEffect, useState } from 'react'
 
 // Interface import
-import { ITool } from "../../interfaces/ITool";
+import { ITool } from "@/interfaces/ITool";
 
 // Components import
 import List from "./List";
-import SearchBar from '../../components/SearchBar';
-
-// Material UI Components import
-import CircularProgress from '@mui/material/CircularProgress';
+import SearchBar from '@/components/SearchBar';
+import Loading from '@/components/Loading';
 
 // Styles import
-import { LoadingStyle } from '@/styles/LoadingStyles';
 import { Box, Grid } from '@mui/material';
+import Footer from '@/components/Footer';
 
 interface IProp {
   tools: ITool[]
@@ -37,17 +35,16 @@ const ListTools = ({ tools }: IProp) => {
         <> 
           <Box sx={{ m: 2 }}>
             <Grid container>
-              <Grid item xs={12}>
+              <Grid item sx={{ mt: 3 }} xs={12}>
                 <SearchBar searchQuery={searchQuery} setSearchQuery={setSearchQuery} /><div style={{ padding: 3 }} />
               </Grid>
             </Grid>
+            <List tools={dataFiltered} searching={searching }/>
+            <Footer />
           </Box>
-          <List tools={dataFiltered} searching={searching }/>
         </> 
       :
-        <LoadingStyle>
-          <CircularProgress />
-        </LoadingStyle>
+        <Loading />
       }
     </>
   )
