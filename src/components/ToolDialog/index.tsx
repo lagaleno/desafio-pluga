@@ -36,7 +36,7 @@ const mountRecentViewedToolsList = (list: ITool[]) => {
     }
     return (
         <>
-            <h6> Interja com as ferramentas </h6>
+            <Typography variant="h6"> Descubra mais sobre outras ferramentas clicando nos cartões  </Typography>
         </>
     )
 }
