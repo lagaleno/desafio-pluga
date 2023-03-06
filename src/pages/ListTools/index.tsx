@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from 'react'
 
 // Interface import
-import { ITool } from "../../interfaces/ITool";
+import { ITool } from "@/interfaces/ITool";
 
 // Components import
 import List from "./List";
-import SearchBar from '../../components/SearchBar';
+import SearchBar from '@/components/SearchBar';
 import Loading from '@/components/Loading';
 
 // Styles import

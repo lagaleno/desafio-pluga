@@ -4,14 +4,14 @@ import useInfiniteScroll, { UseInfiniteScrollHookResult } from 'react-infinite-s
 
 // Component import
 import ToolsCard from "@/components/Card"
+import Loading from '@/components/Loading';
 
 // TODO: padronizar import do MUI nos arquivos
 // Material UI Components import
 import { Box, Grid } from '@mui/material';
 
 // Interfaces import
-import { ITool } from "../../../interfaces/ITool";
-import Loading from '@/components/Loading';
+import { ITool } from "@/interfaces/ITool";
 
 
 interface IProps {

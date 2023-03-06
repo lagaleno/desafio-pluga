@@ -1,7 +1,7 @@
-import LayoutDefault from "../layout/Default";
+import LayoutDefault from "@/layout/Default";
 import ListTools from "./ListTools";
-import { getToolsData } from "../utils/getToolsData";
-import { ITool } from "../interfaces/ITool"
+import { getToolsData } from "@/utils/getToolsData";
+import { ITool } from "@/interfaces/ITool"
 
 interface IProp {
   tools: ITool[];

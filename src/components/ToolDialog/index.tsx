@@ -4,11 +4,11 @@ import React from 'react'
 import { ITool } from '@/interfaces/ITool';
 
 // Material UI Components import
-import { Box, Button, Dialog, DialogContent, DialogContentText, DialogTitle, Grid, IconButton, Modal, Typography, useMediaQuery, useTheme } from '@mui/material';
+import { Button, Dialog, DialogContent, DialogTitle, Grid, IconButton, Typography, useMediaQuery, useTheme } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
 
 // Components import
-import ToolsCard from '../Card';
+import ToolsCard from '@/components/Card';
 
 // Styles import
 import Image from 'next/image';

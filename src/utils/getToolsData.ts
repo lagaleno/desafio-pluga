@@ -1,4 +1,4 @@
-import { ITool } from "../interfaces/ITool";
+import { ITool } from "@/interfaces/ITool";
 
 export const getToolsData = async () => {
     const url = "https://pluga.co/ferramentas_search.json"
