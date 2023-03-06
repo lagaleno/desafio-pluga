@@ -41,7 +41,7 @@ const ToolsCard = ({ tool }: IProps): JSX.Element => {
   return (
     <>
       <CardStyle>
-        <Card sx={{ maxWidth: "100%", height: "280px", overflow: "auto" }}>
+        <Card sx={{ maxWidth: "100%", height: "16em", overflow: "auto" }}>
           <CardActionArea onClick={handleOpenModal}>
             <CardImageStyle color={tool.color}>
               <CardMedia
