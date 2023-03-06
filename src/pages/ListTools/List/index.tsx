@@ -3,17 +3,15 @@ import useInfiniteScroll, { UseInfiniteScrollHookResult } from 'react-infinite-s
 
 
 // Component import
-import ToolsCard from "../../../components/Card"
+import ToolsCard from "@/components/Card"
 
 // TODO: padronizar import do MUI nos arquivos
 // Material UI Components import
-import { Box, Grid, CircularProgress } from '@mui/material';
-
-// Styles import
-import { LoadingStyle } from '@/styles/LoadingStyles';
+import { Box, Grid } from '@mui/material';
 
 // Interfaces import
 import { ITool } from "../../../interfaces/ITool";
+import Loading from '@/components/Loading';
 
 
 interface IProps {
@@ -86,9 +84,7 @@ const renderSearchList = (tools: ITool[]): JSX.Element => {
             </Grid>
           ))
         :
-        <LoadingStyle>
-          <CircularProgress />
-        </LoadingStyle>
+        <Loading />
       }
     </>
   )
@@ -108,9 +104,9 @@ const renderPaginatedList = (
           </Grid>
         ))}
         {(loading || hasNextPage) && (
-          <LoadingStyle ref={sentryRef}>
-            <CircularProgress />
-          </LoadingStyle>
+          <div style={{width: "100%", display: "flex", alignItems: "center"}} ref={sentryRef}>
+            <Loading />
+          </div>
       )}
     </>
   )

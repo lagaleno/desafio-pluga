@@ -6,12 +6,9 @@ import { ITool } from "../../interfaces/ITool";
 // Components import
 import List from "./List";
 import SearchBar from '../../components/SearchBar';
-
-// Material UI Components import
-import CircularProgress from '@mui/material/CircularProgress';
+import Loading from '@/components/Loading';
 
 // Styles import
-import { LoadingStyle } from '@/styles/LoadingStyles';
 import { Box, Grid } from '@mui/material';
 
 interface IProp {
@@ -45,9 +42,7 @@ const ListTools = ({ tools }: IProp) => {
           <List tools={dataFiltered} searching={searching }/>
         </> 
       :
-        <LoadingStyle>
-          <CircularProgress />
-        </LoadingStyle>
+        <Loading />
       }
     </>
   )
