@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import useInfiniteScroll, { UseInfiniteScrollHookResult } from 'react-infinite-scroll-hook';
+import useInfiniteScroll from 'react-infinite-scroll-hook';
 
 
 // Component import
