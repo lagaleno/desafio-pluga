@@ -80,16 +80,21 @@ const ToolDialog = ({ open, handleCloseModal, tool, recentlyViewedTools }: IProp
                     mountToolDetails(tool, fullScreen)
                 }
             </ToolDetailsStyles>
-            <RecentlyViewedToolsStyles>
-                <Grid container rowSpacing={2} columnSpacing={5} justifyContent="center">
-                    <Grid item xs={12} style={{ textAlign: `${fullScreen ? "center" : "left"}` }}>
-                        <Typography variant="h5"> Últimas Ferramentas Visualizadas </Typography>
-                    </Grid>
-                    {
-                        mountRecentViewedToolsList(recentlyViewedTools)
-                    }
-                </Grid>
-            </RecentlyViewedToolsStyles>
+            {
+                recentlyViewedTools.length > 0 ?
+                    <RecentlyViewedToolsStyles>
+                        <Grid container rowSpacing={2} columnSpacing={5} justifyContent="center">
+                            <Grid item xs={12} style={{ textAlign: `${fullScreen ? "center" : "left"}` }}>
+                                <Typography variant="h5"> Últimas Ferramentas Visualizadas </Typography>
+                            </Grid>
+                            {
+                                mountRecentViewedToolsList(recentlyViewedTools)
+                            }
+                        </Grid>
+                    </RecentlyViewedToolsStyles>
+                :
+                    <></>
+            }
         </DialogContent>
       </Dialog>
     )
