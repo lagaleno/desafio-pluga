@@ -34,12 +34,12 @@ const ListTools = ({ tools }: IProp) => {
         <> 
           <Box sx={{ m: 2 }}>
             <Grid container>
-              <Grid item xs={12}>
+              <Grid item sx={{ mt: 3 }} xs={12}>
                 <SearchBar searchQuery={searchQuery} setSearchQuery={setSearchQuery} /><div style={{ padding: 3 }} />
               </Grid>
             </Grid>
+            <List tools={dataFiltered} searching={searching }/>
           </Box>
-          <List tools={dataFiltered} searching={searching }/>
         </> 
       :
         <Loading />
