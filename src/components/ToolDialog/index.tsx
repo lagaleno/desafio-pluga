@@ -27,7 +27,7 @@ const mountRecentViewedToolsList = (list: ITool[]) => {
     if (list.length >= 1) {
         return (
             list.map((tool) => (
-                <Grid key={tool.app_id} item xs={12} sm={12} md={4}>
+                <Grid key={tool.app_id} item xs={12} sm={4} md={4}>
                     {/* Se cliclou chama handleCloseModal*/}
                     <ToolsCard tool={tool} />
                 </Grid>
