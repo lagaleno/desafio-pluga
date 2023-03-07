@@ -8,7 +8,7 @@ import { Button, Dialog, DialogContent, DialogTitle, Grid, IconButton, Typograph
 import CloseIcon from '@mui/icons-material/Close';
 
 // Components import
-import ToolsCard from '@/components/Card';
+import ToolCard from '@/components/ToolCard';
 
 // Styles import
 import Image from 'next/image';
@@ -29,7 +29,7 @@ const mountRecentViewedToolsList = (list: ITool[]) => {
             list.map((tool) => (
                 <Grid key={tool.app_id} item xs={12} sm={4} md={4}>
                     {/* Se cliclou chama handleCloseModal*/}
-                    <ToolsCard tool={tool} />
+                    <ToolCard tool={tool} />
                 </Grid>
             ))
         )
