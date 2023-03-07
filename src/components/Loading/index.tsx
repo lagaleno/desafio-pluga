@@ -1,18 +1,17 @@
-import React from 'react'
+import React from "react";
 
 // MUI component import
-import { CircularProgress } from '@mui/material';
+import { CircularProgress } from "@mui/material";
 
 // Styles import
-import { LoadingStyle } from './styles';
+import { LoadingStyle } from "./styles";
 
-const Loading = (): JSX.Element => { 
-
-    return (
-        <LoadingStyle>
-          <CircularProgress />
-        </LoadingStyle>
-    )
-}
+const Loading = (): JSX.Element => {
+  return (
+    <LoadingStyle>
+      <CircularProgress />
+    </LoadingStyle>
+  );
+};
 
 export default Loading;

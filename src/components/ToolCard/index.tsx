@@ -1,21 +1,21 @@
-import React, { useState } from 'react';
-import Card from '@mui/material/Card';
-import CardContent from '@mui/material/CardContent';
-import CardMedia from '@mui/material/CardMedia';
-import Typography from '@mui/material/Typography';
-import { CardActionArea } from '@mui/material';
+import React, { useState } from "react";
+import Card from "@mui/material/Card";
+import CardContent from "@mui/material/CardContent";
+import CardMedia from "@mui/material/CardMedia";
+import Typography from "@mui/material/Typography";
+import { CardActionArea } from "@mui/material";
 
 // Interface Import
-import { ITool } from '@/interfaces/ITool';
+import { ITool } from "@/interfaces/ITool";
 
 // Components Import
-import ToolDialog from '@/components/ToolDialog';
+import ToolDialog from "@/components/ToolDialog";
 
 // Context import
-import { useRecentlyViewedTools } from '@/context/RecentlyViewedToolsContext';
+import { useRecentlyViewedTools } from "@/context/RecentlyViewedToolsContext";
 
 // Utils import
-import { mountRecentlyViewedList } from '@/utils/mountRecentlyViewedList';
+import { mountRecentlyViewedList } from "@/utils/mountRecentlyViewedList";
 
 // Styles import
 import { CardStyle, CardImageStyle } from "./styles";
@@ -30,13 +30,13 @@ const ToolCard = ({ tool }: IProps): JSX.Element => {
 
   const handleOpenModal = () => {
     setShowModal(true);
-  }
+  };
 
   const handleCloseModal = () => {
     setShowModal(false);
-    const recentList = mountRecentlyViewedList(recentToolsList, tool)
+    const recentList = mountRecentlyViewedList(recentToolsList, tool);
     setRecentToolsList(recentList);
-  }
+  };
 
   return (
     <>
@@ -59,9 +59,14 @@ const ToolCard = ({ tool }: IProps): JSX.Element => {
           </CardActionArea>
         </Card>
       </CardStyle>
-      <ToolDialog open={showModal} handleCloseModal={handleCloseModal} tool={tool} recentlyViewedTools={recentToolsList}/>
+      <ToolDialog
+        open={showModal}
+        handleCloseModal={handleCloseModal}
+        tool={tool}
+        recentlyViewedTools={recentToolsList}
+      />
     </>
   );
-}
+};
 
 export default ToolCard;
