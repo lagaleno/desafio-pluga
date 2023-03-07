@@ -12,7 +12,10 @@ const Footer = (): JSX.Element => {
         <Grid container>
           <Grid item xs={12}>
             <Typography variant="overline" display="block" align="right">
-              Feito por: <a href="https://github.com/lagaleno"> @lagaleno </a>
+              Feito por:
+              <a href="https://github.com/lagaleno" target="_blank">
+                @lagaleno
+              </a>
             </Typography>
           </Grid>
         </Grid>
