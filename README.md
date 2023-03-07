@@ -24,4 +24,4 @@ Deploy e controle de CI/CD feito com a [Vercel](https://vercel.com/new?utm_mediu
 
 ## Organização do Projeto
 
-- Pode ser visto o quandro Kanban com as tarefas a serem implementadas no [GitHub Project](https://github.com/users/lagaleno/projects/1/views/1?layout=board).
+- Pode ser visto o quadro Kanban com as tarefas a serem implementadas no [GitHub Project](https://github.com/users/lagaleno/projects/1/views/1?layout=board).
