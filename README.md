@@ -20,7 +20,7 @@ Deploy e controle de CI/CD feito com a [Vercel](https://vercel.com/new?utm_mediu
 
 ## Fluxo do projeto:
 
-- Criar uma branch com o nome da feature em desenvolvimento. Ao finalizar abrir um `Pull Request` para a branch `main` e, ao passar nos requisitos, fazer o merge. Automaticamente será feito deploy na Vercel.
+- Criar uma branch com o nome da feature em desenvolvimento. Ao finalizar abrir um `Pull Request` para a branch `main` e, ao passar nos requisitos, fazer o merge. Automaticamente será feito deploy na Vercel. Lembre-se de, ao fazer merge, deletar a branch da feature.
 
 ## Organização do Projeto
 
