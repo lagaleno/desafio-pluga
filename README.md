@@ -6,7 +6,7 @@ Projeto utilizando [Next.js](https://nextjs.org/) feito por [Larissa Galeno](htt
 
 Deploy e controle de CI/CD feito com a [Vercel](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
 
-## Para Executar o pojeto
+## Executar o Projeto
 
 1. Faça o `git clone` ou `git pull` deste repositório
 2. No terminal navegue até a pasta do projeto e rode o comando `yarn` para instalar as dependências
@@ -18,7 +18,7 @@ Deploy e controle de CI/CD feito com a [Vercel](https://vercel.com/new?utm_mediu
 - Rode `yarn test` para executar os testes unitários
 - Rode `yarn lint` para ver os erros de lint e, se possível, `yarn lint:fix` para corrigi-los de forma automática
 
-## Fluxo do projeto
+## Fluxo do Projeto
 
 - Criar uma branch com o nome da feature em desenvolvimento. Ao finalizar abrir um `Pull Request` para a branch `main` e, ao passar nos requisitos, fazer o merge. Automaticamente será feito deploy na Vercel. Lembre-se de, ao fazer merge, deletar a branch da feature.
 
