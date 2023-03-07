@@ -18,7 +18,7 @@ Deploy e controle de CI/CD feito com a [Vercel](https://vercel.com/new?utm_mediu
 - Rode `yarn test` para executar os testes unitários
 - Rode `yarn lint` para ver os erros de lint e, se possível, `yarn lint:fix` para corrigi-los de forma automática
 
-## Fluxo do projeto:
+## Fluxo do projeto
 
 - Criar uma branch com o nome da feature em desenvolvimento. Ao finalizar abrir um `Pull Request` para a branch `main` e, ao passar nos requisitos, fazer o merge. Automaticamente será feito deploy na Vercel. Lembre-se de, ao fazer merge, deletar a branch da feature.
 
