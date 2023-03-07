@@ -24,7 +24,7 @@ interface IProps {
   tool: ITool;
 }
 
-const ToolsCard = ({ tool }: IProps): JSX.Element => {
+const ToolCard = ({ tool }: IProps): JSX.Element => {
   const { recentToolsList, setRecentToolsList } = useRecentlyViewedTools();
   const [showModal, setShowModal] = useState(false);
 
@@ -64,4 +64,4 @@ const ToolsCard = ({ tool }: IProps): JSX.Element => {
   );
 }
 
-export default ToolsCard;
+export default ToolCard;

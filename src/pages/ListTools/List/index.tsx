@@ -3,7 +3,7 @@ import useInfiniteScroll from 'react-infinite-scroll-hook';
 
 
 // Component import
-import ToolsCard from "@/components/Card"
+import ToolCard from "@/components/ToolCard"
 import Loading from '@/components/Loading';
 
 // TODO: padronizar import do MUI nos arquivos
@@ -103,7 +103,7 @@ const renderSearchList = (tools: ITool[]): JSX.Element => {
       {tools.length > 0 ? 
           tools.map((tool) => (
             <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
-              <ToolsCard tool={tool} /> 
+              <ToolCard tool={tool} /> 
             </Grid>
           ))
         :
@@ -124,7 +124,7 @@ const renderPaginatedList = (
     <>
       {tools.map((tool) => (
           <Grid key={tool.app_id} item xs={12} sm={6} md={4}>
-            <ToolsCard tool={tool} /> 
+            <ToolCard tool={tool} /> 
           </Grid>
         ))}
         {(loading || hasNextPage) && (

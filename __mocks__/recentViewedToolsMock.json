@@ -1,0 +1,23 @@
+[
+    {
+      "app_id": "omie",
+      "name": "Omie",
+      "color": "#001E27",
+      "icon": "https://assets.pluga.co/apps/icons/omie/omie-icon.svg",
+      "link": "https://pluga.co/ferramentas/omie/"
+    },
+    {
+      "app_id": "hotmart",
+      "name": "Hotmart",
+      "color": "#F04E23",
+      "icon": "https://assets.pluga.co/apps/icons/hotmart/hotmart-icon.svg",
+      "link": "https://pluga.co/ferramentas/hotmart/"
+    },
+    {
+      "app_id": "eduzz",
+      "name": "Eduzz",
+      "color": "#FFCD33",
+      "icon": "https://assets.pluga.co/apps/icons/eduzz/eduzz-icon.svg",
+      "link": "https://pluga.co/ferramentas/eduzz/"
+    }
+]
