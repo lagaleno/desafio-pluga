@@ -129,11 +129,12 @@ exports[`Home Renders components correctly 1`] = `
             <span
               class="MuiTypography-root MuiTypography-overline MuiTypography-alignRight css-1hajmvu-MuiTypography-root"
             >
-              Feito por: 
+              Feito por:
               <a
                 href="https://github.com/lagaleno"
+                target="_blank"
               >
-                 @lagaleno 
+                @lagaleno
               </a>
             </span>
           </div>
