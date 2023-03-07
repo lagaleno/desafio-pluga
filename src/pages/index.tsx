@@ -2,7 +2,7 @@ import LayoutDefault from "@/layout/Default";
 import ListTools from "./ListTools";
 import { getToolsData } from "@/utils/getToolsData";
 import { sortDataByName } from "@/utils/sortDataByName";
-import { ITool } from "@/interfaces/ITool"
+import { ITool } from "@/interfaces/ITool";
 
 interface IProp {
   tools: ITool[];
@@ -18,10 +18,10 @@ export async function getStaticProps() {
   };
 }
 
-export default function Home({tools}: IProp) {
+export default function Home({ tools }: IProp) {
   return (
     <LayoutDefault>
       <ListTools tools={tools} />
     </LayoutDefault>
   );
-};
+}
