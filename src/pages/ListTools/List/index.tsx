@@ -23,7 +23,7 @@ interface Response {
 }
 
 // CONSTANTS
-const RESPONSE_TIME_IN_MS = 1000; // delay time to render next page
+const RESPONSE_TIME_IN_MS = 500; // delay time to render next page
 const PAGE_MAX_SIZE = 12;
 
 const loadTools = (
