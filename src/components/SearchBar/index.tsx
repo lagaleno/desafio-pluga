@@ -6,7 +6,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import TextField from "@mui/material/TextField";
 import { SearchBarStyles } from './styles';
 
-const SearchBar = ({ setSearchQuery }: any): JSX.Element => (
+const SearchBar = ({ setSearchQuery }: React.SetStateAction<any>): JSX.Element => (
     <form>
       <SearchBarStyles>
         <IconButton type="submit" aria-label="search">

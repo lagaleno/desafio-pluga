@@ -17,7 +17,7 @@ import { RecentlyViewedToolsStyles, ToolDetailsStyles } from './styles';
 
 interface IProp {
     open: boolean;
-    handleCloseModal: any;
+    handleCloseModal: () => void;
     tool: ITool;
     recentlyViewedTools: ITool[];
 }
