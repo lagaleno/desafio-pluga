@@ -32,21 +32,11 @@ interface IProp {
 }
 
 const mountRecentViewedToolsList = (list: ITool[]) => {
-  if (list.length >= 1) {
-    return list.map((tool) => (
-      <Grid key={tool.app_id} item xs={12} sm={4} md={4}>
-        <ToolCard tool={tool} />
-      </Grid>
-    ));
-  }
-  return (
-    <>
-      <Typography variant="h6">
-        {" "}
-        Descubra mais sobre outras ferramentas clicando nos cartões{" "}
-      </Typography>
-    </>
-  );
+  return list.map((tool) => (
+    <Grid key={tool.app_id} item xs={12} sm={4} md={4}>
+      <ToolCard tool={tool} />
+    </Grid>
+  ));
 };
 
 const mountToolDetails = (tool: ITool, fullScreen: boolean) => {
