@@ -8,8 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "lint:fix": "next lint --fix",
-    "test": "jest --watch",
-    "format": "prettier --write"
+    "test": "jest --watch"
   },
   "dependencies": {
     "@emotion/react": "^11.10.6",
