@@ -1,0 +1,2971 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tool Card Renders component correctly 1`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gMeUZS"
+          color="#001E27"
+        >
+          <img
+            alt="Omie"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/omie/omie-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Omie
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 2`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jjNzB"
+          color="#F04E23"
+        >
+          <img
+            alt="Hotmart"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/hotmart/hotmart-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Hotmart
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 3`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kKMzvQ"
+          color="#FFCD33"
+        >
+          <img
+            alt="Eduzz"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/eduzz/eduzz-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Eduzz
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 4`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP zpKCo"
+          color="#0052cc"
+        >
+          <img
+            alt="Jira Software"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/jira/jira-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Jira Software
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 5`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP dqRFkz"
+          color="#43AA96"
+        >
+          <img
+            alt="Superlógica Assinaturas"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/superlogica/superlogica-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Superlógica Assinaturas
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 6`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP QOoBY"
+          color="#656a74"
+        >
+          <img
+            alt="Calendly"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/calendly/calendly-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Calendly
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 7`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP iQWXwW"
+          color="#005CE2"
+        >
+          <img
+            alt="Google Docs"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/google_docs/google_docs-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Google Docs
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 8`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kKLEuy"
+          color="#cf272c"
+        >
+          <img
+            alt="Twilio"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/twilio/twilio-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Twilio
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 9`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP ghReFM"
+          color="#FF8300"
+        >
+          <img
+            alt="Eventbrite"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/eventbrite/eventbrite-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Eventbrite
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 10`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP cpjcPP"
+          color="#3B5BFD"
+        >
+          <img
+            alt="Pipefy"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/pipefy/pipefy-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Pipefy
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 11`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP cTBsAZ"
+          color="#356ae6"
+        >
+          <img
+            alt="ActiveCampaign"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/active_campaign/active_campaign-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            ActiveCampaign
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 12`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP isDfIG"
+          color="#0098ff"
+        >
+          <img
+            alt="Sympla"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/sympla/sympla-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Sympla
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 13`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP HQvKo"
+          color="#2687E9"
+        >
+          <img
+            alt="Conta Azul"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/conta_azul/conta_azul-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Conta Azul
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 14`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP dSknLy"
+          color="#0C7742"
+        >
+          <img
+            alt="Google Sheets"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/google_sheets/google_sheets-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Google Sheets
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 15`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP desCak"
+          color="#364a65"
+        >
+          <img
+            alt="RD Station Marketing"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/rd_station/rd_station-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            RD Station Marketing
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 16`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kksUYw"
+          color="#4A154B"
+        >
+          <img
+            alt="Slack"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/slack/slack-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Slack
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 17`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP fzrUfV"
+          color="#96c12e"
+        >
+          <img
+            alt="PagSeguro"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/pag_seguro/pag_seguro-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            PagSeguro
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 18`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jEGMDa"
+          color="#4C3779"
+        >
+          <img
+            alt="Google Forms"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/google_forms/google_forms-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Google Forms
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 19`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP ipdFUw"
+          color="#3a5a98"
+        >
+          <img
+            alt="Facebook Lead Ads"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/facebook_lead_ads/facebook_lead_ads-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Facebook Lead Ads
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 20`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP desCak"
+          color="#364a65"
+        >
+          <img
+            alt="RD Station CRM"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/plugcrm/plugcrm-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            RD Station CRM
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 21`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP lekhxk"
+          color="#2463d8"
+        >
+          <img
+            alt="Google Calendar"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/google_calendar/google_calendar-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Google Calendar
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 22`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP xHWl"
+          color="#525e6c"
+        >
+          <img
+            alt="Linkseller"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/linkseller/linkseller-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Linkseller
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 23`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kAaSzf"
+          color="#222222"
+        >
+          <img
+            alt="Pipedrive"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/pipedrive/pipedrive-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Pipedrive
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 24`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP dDXkBq"
+          color="#0A6332"
+        >
+          <img
+            alt="Excel"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/excel/excel-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Excel
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 25`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP iscarB"
+          color="#30373B"
+        >
+          <img
+            alt="Shopify"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/shopify/shopify-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Shopify
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 26`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP crRpGL"
+          color="#0084FF"
+        >
+          <img
+            alt="ManyChat"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/manychat/manychat-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            ManyChat
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 27`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gmOsSt"
+          color="#FF7A59"
+        >
+          <img
+            alt="HubSpot CRM"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/hubspot_crm/hubspot_crm-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            HubSpot CRM
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 28`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP fvTjRG"
+          color="#e74c3c"
+        >
+          <img
+            alt="Gmail"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/gmail/gmail-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Gmail
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 29`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP bpIOCu"
+          color="#185ABB"
+        >
+          <img
+            alt="Google Contacts"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/google_contacts/google_contacts-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Google Contacts
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 30`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gfHaRD"
+          color="#000000"
+        >
+          <img
+            alt="iugu"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/iugu/iugu-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            iugu
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 31`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP iuoTnR"
+          color="#FFE01B"
+        >
+          <img
+            alt="Mailchimp"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/mailchimp/mailchimp-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Mailchimp
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 32`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jYFZnv"
+          color="#3c3c3c"
+        >
+          <img
+            alt="WooCommerce"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/woocommerce/woocommerce-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            WooCommerce
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 33`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP bftQQM"
+          color="#2BC4C3"
+        >
+          <img
+            alt="Loja Integrada"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/loja_integrada/loja_integrada-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Loja Integrada
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 34`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gpKpER"
+          color="#0079BF"
+        >
+          <img
+            alt="Trello"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/trello/trello-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Trello
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 35`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gqxxxG"
+          color="#262627"
+        >
+          <img
+            alt="Typeform"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/typeform/typeform-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Typeform
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 36`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP bQMQUe"
+          color="#00AEED"
+        >
+          <img
+            alt="Meets"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/meets/meets-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Meets
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 37`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP hdtpYZ"
+          color="#89324F"
+        >
+          <img
+            alt="Asana"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/asana/asana-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Asana
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 38`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP ehPiXZ"
+          color="#4F5F9F"
+        >
+          <img
+            alt="Mautic"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/mautic/mautic-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Mautic
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 39`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP eWmUlr"
+          color="#F16423"
+        >
+          <img
+            alt="Magento 1.x"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/magento/magento-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Magento 1.x
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 40`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP eeyspN"
+          color="#1F8DED"
+        >
+          <img
+            alt="Intercom"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/intercom/intercom-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Intercom
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 41`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP RyeWH"
+          color="#0030b9"
+        >
+          <img
+            alt="Asaas"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/asaas/asaas-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Asaas
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 42`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP MSeoK"
+          color="#332DE6"
+        >
+          <img
+            alt="Agendor"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/agendor/agendor-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Agendor
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 43`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kAaSzf"
+          color="#222222"
+        >
+          <img
+            alt="Bling"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/bling/bling-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Bling
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 44`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP dLXsMh"
+          color="#fcdf01"
+        >
+          <img
+            alt="Mercado Livre"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/mercado_livre/mercado_livre-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Mercado Livre
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 45`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP elUtaT"
+          color="#374756"
+        >
+          <img
+            alt="E-goi"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/egoi/egoi-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            E-goi
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 46`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP beGgsW"
+          color="#253858"
+        >
+          <img
+            alt="Pluga Webhooks"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/pluga_webhooks/pluga_webhooks-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Pluga Webhooks
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 47`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP hQPfyl"
+          color="#0050DC"
+        >
+          <img
+            alt="TinyERP"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/tinyerp/tinyerp-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            TinyERP
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 48`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP bSzJHz"
+          color="#f7273c"
+        >
+          <img
+            alt="leadlovers"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/leadlovers/leadlovers-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            leadlovers
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 49`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jnEvqf"
+          color="#001A9E"
+        >
+          <img
+            alt="Vindi"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/vindi/vindi-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Vindi
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 50`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP erskgq"
+          color="#03363d"
+        >
+          <img
+            alt="Zendesk"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/zendesk/zendesk-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Zendesk
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 51`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jCzHyq"
+          color="#00579B"
+        >
+          <img
+            alt="Granatum Financeiro"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/granatum_financeiro/granatum_financeiro-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Granatum Financeiro
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 52`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP ePKnNX"
+          color="#c7c6c6"
+        >
+          <img
+            alt="eNotas"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/enotas/enotas-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            eNotas
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 53`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jHESuV"
+          color="#171717"
+        >
+          <img
+            alt="Mandrill"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/mandrill/mandrill-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Mandrill
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 54`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP dYhfF"
+          color="#009EE3"
+        >
+          <img
+            alt="MercadoPago"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/mercado_pago/mercado_pago-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            MercadoPago
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 55`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP bVtCyc"
+          color="#45559c"
+        >
+          <img
+            alt="Moip"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/moip/moip-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Moip
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 56`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kOuvA-d"
+          color="#103440"
+        >
+          <img
+            alt="NFe.io"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/nfe_io/nfe_io-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            NFe.io
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 57`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP gRgfUv"
+          color="#303235"
+        >
+          <img
+            alt="Nibo"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/nibo/nibo-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Nibo
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 58`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP fiLlRU"
+          color="#95c93f"
+        >
+          <img
+            alt="Pagar.me"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/pagar_me/pagar_me-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Pagar.me
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 59`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP hxobDT"
+          color="#0E3178"
+        >
+          <img
+            alt="PayPal"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/paypal/paypal-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            PayPal
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 60`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP cQClBQ"
+          color="#249bd6"
+        >
+          <img
+            alt="Stripe"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/stripe/stripe-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Stripe
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 61`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP cIsXfv"
+          color="#053C50"
+        >
+          <img
+            alt="LAHAR"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/lahar/lahar-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            LAHAR
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 62`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP hySMxA"
+          color="#52658C"
+        >
+          <img
+            alt="TotalVoice"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/totalvoice/totalvoice-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            TotalVoice
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 63`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP khOOdZ"
+          color="#003B43"
+        >
+          <img
+            alt="G Digital"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/gdigital/gdigital-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            G Digital
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 64`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP jempZn"
+          color="#FF5252"
+        >
+          <img
+            alt="PipeRun"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/piperun/piperun-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            PipeRun
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 65`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP iJGSEH"
+          color="#333333"
+        >
+          <img
+            alt="bkper"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/bkper/bkper-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            bkper
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Tool Card Renders component correctly 66`] = `
+<div>
+  <div
+    class="sc-dkrFOg iabpYH"
+  >
+    <div
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-qft24k-MuiPaper-root-MuiCard-root"
+    >
+      <button
+        class="MuiButtonBase-root MuiCardActionArea-root css-b6lsxj-MuiButtonBase-root-MuiCardActionArea-root"
+        tabindex="0"
+        type="button"
+      >
+        <div
+          class="sc-hLBbgP kwwyqD"
+          color="#1167AD"
+        >
+          <img
+            alt="Boleto Simples"
+            class="MuiCardMedia-root MuiCardMedia-media MuiCardMedia-img css-o69gx8-MuiCardMedia-root"
+            height="140"
+            src="https://assets.pluga.co/apps/icons/boleto_simples/boleto_simples-icon.svg"
+          />
+        </div>
+        <div
+          class="MuiCardContent-root css-46bh2p-MuiCardContent-root"
+        >
+          <div
+            class="MuiTypography-root MuiTypography-h5 MuiTypography-gutterBottom css-h93ljk-MuiTypography-root"
+          >
+            Boleto Simples
+          </div>
+        </div>
+        <span
+          class="MuiCardActionArea-focusHighlight css-1v2exvi-MuiCardActionArea-focusHighlight"
+        />
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </div>
+  </div>
+</div>
+`;

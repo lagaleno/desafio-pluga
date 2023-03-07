@@ -21,7 +21,7 @@ export async function getStaticProps() {
 export default function Home({tools}: IProp) {
   return (
     <LayoutDefault>
-      <ListTools tools={tools}/>
+      <ListTools tools={tools} />
     </LayoutDefault>
   );
 };

@@ -10,7 +10,7 @@ import Home from './../src/pages'
 import toolsMock from "../__mocks__/toolsMock.json";
 
 describe ('Home', () => {
-    it( 'Renders components correctly', () => {
+    it ('Renders components correctly', () => {
         const { container } = render (<Home tools={toolsMock} />)
         expect(container).toMatchSnapshot()
     })
